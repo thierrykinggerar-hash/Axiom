@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Axiom Segurança do Trabalho</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f9;
+      color: #333;
+    }
+
+    header {
+      background: #222;
+      color: #fff;
+      padding: 1.2em;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+      letter-spacing: 1px;
+    }
+
+    nav {
+      background: #444;
+      padding: 0.5em 0;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ffcc00;
+    }
+
+    section {
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-top: 20px;
+    }
+
+    footer {
+      text-align: center;
+      background: #222;
+      color: white;
+      padding: 1em;
+      margin-top: 40px;
+    }
+
+    .button {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 10px;
+    }
+
+    .button:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Axiom - Segurança do Trabalho</h1>
+    <p>Soluções Digitais em Segurança e Saúde Ocupacional</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre o Axiom</h2>
+    <p>O Axiom é seu consultor digital especializado em Segurança do Trabalho. 
+       Desenvolvemos programas, campanhas e treinamentos personalizados para sua empresa, 
+       dentro das competências técnicas de um profissional da área.</p>
+  </section>
+
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>📅 Programas mensais (CIPA, CIPAT, Outubro Rosa, Novembro Azul, etc.)</li>
+      <li>🧰 Elaboração de DDS e Treinamentos NR</li>
+      <li>📊 Gestão de Segurança e documentação técnica</li>
+      <li>💼 Consultoria e acompanhamento remoto</li>
+    </ul>
+    <a class="button" href="#contato">Fale conosco</a>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Quer contratar um programa, treinamento ou assinatura de gestão?</p>
+    <p><strong>Email:</strong> contato@axiomseg.com.br</p>
+    <p><strong>WhatsApp:</strong> (00) 00000-0000</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Axiom Segurança do Trabalho | Desenvolvido por Thierry D. Paula</p>
+  </footer>
+</body>
+</html>
